@@ -12,47 +12,38 @@
 <img src="https://github.com/Sunilworks/Sunilworks/blob/main/Black%20Technology%20LinkedIn%20Banner.png" alt="Front End Developer Banner" />
 <br/>
 
-🔭 I’m currently working on **Home Health Care Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+🔭 I’m currently working on **E-commerce Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
-🏫 I’m currently learning **Next js by doing Project**
+🏫 I’m currently learning **Next js and Tailwind by doing Project**
 
 🔎 I’m looking to collaborate on **Open source Project**
 
-💻 All of my projects are available at **[My Portfolio](https://chetannada.netlify.app/)**
-
-🌍 My Open Source Online Profile at **[LinkFree](https://linkfree.io/chetannada)**
-
-💬 Ask me about **Frontend Development**
+💬 Ask me about **Full Stack Web Development**
 
 💗 Love to talk about **Research and Innovation!**
 
-## 💪 Passionate about Competitive Coding
+📫 How to reach me **call2sunil.kumar.sh9217@gmail.com**
 
-- Solved 250+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
-- 5 🌟 in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
+📄 Know about my experiences at my **[LinkedIn Profile](https://linkedin.com/in/sunil-kumar-sharma-b424b6176)**
 
-## 🏆 Achievement
+## ♨ Languages and Tools:
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![reactrouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
+[![reduxjs](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
+[![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
+[![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://webpack.js.org)
+[![babeljs](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)](https://babeljs.io/)
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
+[![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
+[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/)
+[![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-- 1.2k+ Stars 🌟🌟🌟🌟🌟 & 600+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
-- Dev Ranking (Purple Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
-- 85K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
-
-📫 How to reach me **call2chetannada@gmail.com**
-
-📄 Know about my experiences at my **[LinkedIn Profile](https://linkedin.com/in/chetannada)**
-
-
-<!--
-**Sunilworks/Sunilworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
