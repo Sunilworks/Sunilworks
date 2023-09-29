@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sunilworks&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 <br/>
-<img src="./" alt="Front End Developer Banner" />
+<img src="https://github.com/Sunilworks/Sunilworks/blob/main/Black%20Technology%20LinkedIn%20Banner.png" alt="Front End Developer Banner" />
 <br/>
 
 🔭 I’m currently working on **Home Health Care Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
