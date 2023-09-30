@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sunilworks&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 <br/>
-<img src="https://github.com/Sunilworks/Sunilworks/blob/main/Black%20Technology%20LinkedIn%20Banner.png" alt="Front End Developer Banner" />
+<img src="./Black Technology LinkedIn Banner.png" alt="Front End Developer Banner" />
 <br/>
 
 🔭 I’m currently working on **E-commerce Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
@@ -22,7 +22,7 @@
 
 💗 Love to talk about **Research and Innovation!**
 
-📫 How to reach me **call2sunil.kumar.sh9217@gmail.com**
+📫 How to reach me **sunil.kumar.sh9217@gmail.com**
 
 📄 Know about my experiences at my **[LinkedIn Profile](https://linkedin.com/in/sunil-kumar-sharma-b424b6176)**
 
@@ -33,7 +33,7 @@
 [![reduxjs](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 [![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![expressjs](https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=expressdotjs&logoColor=white)](https://expressjs.com)
+[![expressjs](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
@@ -43,8 +43,10 @@
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
 [![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
-[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![git](https://img.shields.io/badge/GIT-F72C25?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/)
 [![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-
+[![postman](https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&logo=postman&logoColor=white)](https://code.postman.com/)
+[![mongodb](https://img.shields.io/badge/Mongodb-001827?style=for-the-badge&logo=mongodb&logoColor=green)](https://code.mongodb.com/)
+[![postgreSQL](https://img.shields.io/badge/PostgreSQL-2C9ADF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)](https://code.postgresql.com/)
